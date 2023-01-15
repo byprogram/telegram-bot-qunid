@@ -3,7 +3,7 @@
 ## 实时预览
 机器人：[@qunid_bot](https://t.me/qunid_bot)
 ## 使用方法
-- 安装node.js和mysql
+- 安装node.js
 ``` javascript
 token: '5976537284:AAHtt98Vg9c5zlMoC80aDwBmqGO4VxNNcUU', //机器人的token
 ```
