@@ -1,7 +1,7 @@
 # telegram-bot-qunid
 获取电报群id的机器人
 ## 实时预览
-机器人：[@qunid_bot](https://t.me/qunid_bot)<br>
+机器人：[@qunid_bot](https://t.me/qunid_bot)<br><br>
 ![image](https://user-images.githubusercontent.com/121013897/214108433-4ccfb2d3-08f2-4300-9e5d-22a177445060.png)
 
 ## 使用方法
