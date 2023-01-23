@@ -12,7 +12,7 @@ token: '5976537284:AAHtt98Vg9c5zlMoC80aDwBmqGO4VxNNcUU', //机器人的token
 - 修改config文件夹下的conf.js中的机器人token
 - 在文件夹根目录下的终端输入命令 `node app` 启动项目
 - 获取群聊ID：邀请机器人进群，并给与管理权限。在群中发送任意消息后，即可获得群ID
-- 获取私人ID：私发机器人任意消息后，即可获得群ID
+- 获取用户ID：私发机器人任意消息后，即可获得用户ID
 ## 私人定制
 Telegram：[@byprogram](https://t.me/byprogram)<br>
 主页：[点击查看](https://www.byprogram.xyz/)
